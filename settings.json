@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "afk",
     "password": "",
-    "type": "offline"
+    "type": online"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": "",
+    "ip": "ripple.cryhosting.net",
+    "port": 26241,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to tb_du_14!",
         "I like to play Minecraft!"
       ]
     },
