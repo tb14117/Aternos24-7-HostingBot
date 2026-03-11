@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ripple.cryhosting.net",
-    "port": 26241,
+    "ip": "hymaxtest.aternos.me",
+    "port": 34492,
     "version": "1.21.11",
     "try-creative": false
   },
