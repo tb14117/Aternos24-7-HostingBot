@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "afk",
     "password": "",
-    "type": online"
+    "type": offline"
   },
   "server": {
     "ip": "ripple.cryhosting.net",
